@@ -1,3 +1,0 @@
-gcc --std=c99 rownanie_kwadratowe.c -o kw --pedantic -lm
-./kw
-rm kw

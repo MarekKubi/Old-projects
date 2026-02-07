@@ -1,3 +1,0 @@
-gcc simple_loop.c -o loop
-./loop
-rm loop
