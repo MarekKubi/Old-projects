@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(56,50): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(53): message : podczas kompilowania funkcji składowej „T Kula<T>::Objetosc(void)” klasy klasa szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(125): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Objetosc(void)” funkcji szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(121): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Kula<float>” klasy klasa szablon
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(50,30): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(48): message : podczas kompilowania funkcji składowej „T Kula<T>::Pole_Powierzchni(void)” klasy klasa szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(125): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Pole_Powierzchni(void)” funkcji szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(56,50): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(53): message : podczas kompilowania funkcji składowej „T Kula<T>::Objetosc(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(124): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Objetosc(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(120): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Kula<int>” klasy klasa szablon
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(50,30): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\header.h(48): message : podczas kompilowania funkcji składowej „T Kula<T>::Pole_Powierzchni(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\Project1\main.cpp(124): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Pole_Powierzchni(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+  source.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\user\Desktop\Szkoła\Semestr 2\C++\9 Szablony\Project1\x64\Debug\Project1.exe
