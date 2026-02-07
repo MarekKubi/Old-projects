@@ -1,0 +1,11 @@
+﻿  Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(123,47): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(183,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(201,29): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(212,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(251,35): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(265,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(303,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(326,64): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\Project7\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia7.cpp(337,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Project7.vcxproj -> C:\Users\user\Desktop\Szkoła\C++\zajęcia 7\Project7\x64\Debug\Project7.exe

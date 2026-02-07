@@ -1,0 +1,4 @@
+﻿  Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia3.cpp
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 4\Project4\Project4\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia3.cpp(193): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: tab
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 4\Project4\Project4\Marek_Kubicki_Informatyka_Techniczna_gr3_zjecia3.cpp(219): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: tab
+  Project4.vcxproj -> C:\Users\user\Desktop\Szkoła\C++\zajęcia 4\Project4\x64\Debug\Project4.exe

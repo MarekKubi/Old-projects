@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 8\Project8\Project8\Źródło.cpp(275,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Szkoła\C++\zajęcia 8\Project8\Project8\Źródło.cpp(276,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Project8.vcxproj -> C:\Users\user\Desktop\Szkoła\C++\zajęcia 8\Project8\x64\Debug\Project8.exe
