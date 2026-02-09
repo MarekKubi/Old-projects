@@ -1,0 +1,73 @@
+#pragma once
+
+#include <iostream>
+//#include <string>
+//#include <fstream>
+
+//#define _USE_MATH_DEFINES
+//#include <math.h>
+using namespace std;
+class Sort
+{
+	int k;
+	int* tab;
+public:
+	Sort();
+	Sort(int* k,int a);
+	void pokaz();
+	void buble();
+	void selection();
+	void insertion();
+	void merge();
+	void merge(int l, int p);
+	void mergemerge(int l, int s, int p);
+	void quick();
+	void quick(int l, int p);
+	void kopcowanie();
+};
+
+
+class info
+{
+public:
+	char c;
+	int l;
+	info(int k, char c);
+};
+class node
+{
+	node* lt;
+	node* rt;
+	node* parent;
+	int val;
+	char kategoria;
+	bool emp;
+	friend class Bin_tree;
+public:
+	node();
+	node(node* a, int k);
+	void search_emp(bool* a, bool* b, int i, int* max);
+	int search_val(bool* a, int i, int v);
+	void search_range(int i, int* min, int* max);
+	bool sort(node* point);
+};
+class Bin_tree
+{
+	int min;
+	int max;
+	bool tab[10];
+	node* root;
+	void pokaz(node* a);
+	void search_emp();
+public:
+	Bin_tree();
+	void add(int k);
+	int rm();
+	void pokaz_w();
+	void search_val(int val);
+	void search_range();
+	void search_hight();
+	void sort();
+	void merge(Bin_tree brr);
+	bool is_emp();
+};

@@ -1,0 +1,3 @@
+﻿  lab_9.cpp
+C:\Users\user\Desktop\Szkoła\Semestr_3\cpp\Zaj 9\Project1\Project1\lab_9.cpp(172,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\user\Desktop\Szkoła\Semestr_3\cpp\Zaj 9\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,4 @@
+﻿  lab7.cpp
+C:\Users\user\Desktop\Szkoła\Semestr_3\cpp\Zaj 7\Lab 7\lab7.cpp(225,10): warning C4101: "start": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\Szkoła\Semestr_3\cpp\Zaj 7\Lab 7\lab7.cpp(312,10): warning C4101: "start": lokalna zmienna, do której nie istnieje odwołanie
+  Lab 7.vcxproj -> C:\Users\user\Desktop\Szkoła\Semestr_3\cpp\Zaj 7\Lab 7\x64\Debug\Lab 7.exe
