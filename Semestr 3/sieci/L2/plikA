@@ -1,0 +1,1242 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2023-10-25 10:25 CEST
+NSE: Loaded 110 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating Ping Scan at 10:25
+Scanning 256 hosts [4 ports/host]
+Completed Ping Scan at 10:25, 3.90s elapsed (256 total hosts)
+Initiating Parallel DNS resolution of 256 hosts. at 10:25
+Completed Parallel DNS resolution of 256 hosts. at 10:25, 0.01s elapsed
+Nmap scan report for 149.156.112.0 [host down]
+Nmap scan report for 149.156.112.1 [host down]
+Nmap scan report for 149.156.112.2 [host down]
+Nmap scan report for 149.156.112.3 [host down]
+Nmap scan report for 149.156.112.4 [host down]
+Nmap scan report for 149.156.112.5 [host down]
+Nmap scan report for 149.156.112.7 [host down]
+Nmap scan report for 149.156.112.8 [host down]
+Nmap scan report for 149.156.112.9 [host down]
+Nmap scan report for 149.156.112.10 [host down]
+Nmap scan report for 149.156.112.11 [host down]
+Nmap scan report for 149.156.112.12 [host down]
+Nmap scan report for 149.156.112.14 [host down]
+Nmap scan report for 149.156.112.16 [host down]
+Nmap scan report for 149.156.112.17 [host down]
+Nmap scan report for 149.156.112.19 [host down]
+Nmap scan report for 149.156.112.20 [host down]
+Nmap scan report for 149.156.112.21 [host down]
+Nmap scan report for 149.156.112.22 [host down]
+Nmap scan report for 149.156.112.23 [host down]
+Nmap scan report for 149.156.112.24 [host down]
+Nmap scan report for 149.156.112.25 [host down]
+Nmap scan report for 149.156.112.26 [host down]
+Nmap scan report for 149.156.112.28 [host down]
+Nmap scan report for 149.156.112.31 [host down]
+Nmap scan report for 149.156.112.32 [host down]
+Nmap scan report for 149.156.112.33 [host down]
+Nmap scan report for 149.156.112.34 [host down]
+Nmap scan report for 149.156.112.35 [host down]
+Nmap scan report for 149.156.112.36 [host down]
+Nmap scan report for 149.156.112.37 [host down]
+Nmap scan report for 149.156.112.38 [host down]
+Nmap scan report for 149.156.112.39 [host down]
+Nmap scan report for 149.156.112.40 [host down]
+Nmap scan report for 149.156.112.41 [host down]
+Nmap scan report for 149.156.112.43 [host down]
+Nmap scan report for 149.156.112.44 [host down]
+Nmap scan report for 149.156.112.45 [host down]
+Nmap scan report for 149.156.112.47 [host down]
+Nmap scan report for 149.156.112.48 [host down]
+Nmap scan report for 149.156.112.49 [host down]
+Nmap scan report for 149.156.112.50 [host down]
+Nmap scan report for 149.156.112.53 [host down]
+Nmap scan report for 149.156.112.54 [host down]
+Nmap scan report for 149.156.112.55 [host down]
+Nmap scan report for 149.156.112.56 [host down]
+Nmap scan report for 149.156.112.57 [host down]
+Nmap scan report for 149.156.112.58 [host down]
+Nmap scan report for 149.156.112.59 [host down]
+Nmap scan report for 149.156.112.60 [host down]
+Nmap scan report for 149.156.112.61 [host down]
+Nmap scan report for 149.156.112.62 [host down]
+Nmap scan report for 149.156.112.63 [host down]
+Nmap scan report for 149.156.112.64 [host down]
+Nmap scan report for 149.156.112.65 [host down]
+Nmap scan report for 149.156.112.66 [host down]
+Nmap scan report for 149.156.112.67 [host down]
+Nmap scan report for 149.156.112.68 [host down]
+Nmap scan report for 149.156.112.69 [host down]
+Nmap scan report for 149.156.112.70 [host down]
+Nmap scan report for 149.156.112.71 [host down]
+Nmap scan report for 149.156.112.72 [host down]
+Nmap scan report for 149.156.112.73 [host down]
+Nmap scan report for 149.156.112.74 [host down]
+Nmap scan report for 149.156.112.75 [host down]
+Nmap scan report for 149.156.112.76 [host down]
+Nmap scan report for 149.156.112.77 [host down]
+Nmap scan report for 149.156.112.78 [host down]
+Nmap scan report for 149.156.112.79 [host down]
+Nmap scan report for 149.156.112.80 [host down]
+Nmap scan report for 149.156.112.81 [host down]
+Nmap scan report for 149.156.112.82 [host down]
+Nmap scan report for 149.156.112.83 [host down]
+Nmap scan report for 149.156.112.84 [host down]
+Nmap scan report for 149.156.112.85 [host down]
+Nmap scan report for 149.156.112.86 [host down]
+Nmap scan report for 149.156.112.87 [host down]
+Nmap scan report for 149.156.112.88 [host down]
+Nmap scan report for 149.156.112.89 [host down]
+Nmap scan report for 149.156.112.90 [host down]
+Nmap scan report for 149.156.112.91 [host down]
+Nmap scan report for 149.156.112.92 [host down]
+Nmap scan report for 149.156.112.94 [host down]
+Nmap scan report for 149.156.112.95 [host down]
+Nmap scan report for 149.156.112.96 [host down]
+Nmap scan report for 149.156.112.97 [host down]
+Nmap scan report for 149.156.112.98 [host down]
+Nmap scan report for 149.156.112.101 [host down]
+Nmap scan report for 149.156.112.102 [host down]
+Nmap scan report for 149.156.112.103 [host down]
+Nmap scan report for 149.156.112.104 [host down]
+Nmap scan report for 149.156.112.105 [host down]
+Nmap scan report for 149.156.112.106 [host down]
+Nmap scan report for 149.156.112.107 [host down]
+Nmap scan report for 149.156.112.108 [host down]
+Nmap scan report for 149.156.112.109 [host down]
+Nmap scan report for 149.156.112.110 [host down]
+Nmap scan report for 149.156.112.112 [host down]
+Nmap scan report for 149.156.112.113 [host down]
+Nmap scan report for 149.156.112.114 [host down]
+Nmap scan report for 149.156.112.115 [host down]
+Nmap scan report for 149.156.112.116 [host down]
+Nmap scan report for 149.156.112.117 [host down]
+Nmap scan report for 149.156.112.118 [host down]
+Nmap scan report for 149.156.112.119 [host down]
+Nmap scan report for 149.156.112.120 [host down]
+Nmap scan report for 149.156.112.121 [host down]
+Nmap scan report for 149.156.112.123 [host down]
+Nmap scan report for 149.156.112.124 [host down]
+Nmap scan report for 149.156.112.127 [host down]
+Nmap scan report for 149.156.112.128 [host down]
+Nmap scan report for 149.156.112.130 [host down]
+Nmap scan report for 149.156.112.131 [host down]
+Nmap scan report for 149.156.112.132 [host down]
+Nmap scan report for 149.156.112.133 [host down]
+Nmap scan report for 149.156.112.134 [host down]
+Nmap scan report for 149.156.112.135 [host down]
+Nmap scan report for 149.156.112.136 [host down]
+Nmap scan report for 149.156.112.137 [host down]
+Nmap scan report for 149.156.112.138 [host down]
+Nmap scan report for 149.156.112.139 [host down]
+Nmap scan report for 149.156.112.140 [host down]
+Nmap scan report for 149.156.112.141 [host down]
+Nmap scan report for 149.156.112.142 [host down]
+Nmap scan report for 149.156.112.144 [host down]
+Nmap scan report for 149.156.112.145 [host down]
+Nmap scan report for 149.156.112.146 [host down]
+Nmap scan report for 149.156.112.147 [host down]
+Nmap scan report for 149.156.112.148 [host down]
+Nmap scan report for 149.156.112.149 [host down]
+Nmap scan report for 149.156.112.150 [host down]
+Nmap scan report for 149.156.112.151 [host down]
+Nmap scan report for 149.156.112.152 [host down]
+Nmap scan report for 149.156.112.153 [host down]
+Nmap scan report for 149.156.112.154 [host down]
+Nmap scan report for 149.156.112.155 [host down]
+Nmap scan report for 149.156.112.156 [host down]
+Nmap scan report for 149.156.112.157 [host down]
+Nmap scan report for 149.156.112.158 [host down]
+Nmap scan report for 149.156.112.159 [host down]
+Nmap scan report for 149.156.112.161 [host down]
+Nmap scan report for 149.156.112.163 [host down]
+Nmap scan report for 149.156.112.164 [host down]
+Nmap scan report for 149.156.112.165 [host down]
+Nmap scan report for 149.156.112.166 [host down]
+Nmap scan report for 149.156.112.167 [host down]
+Nmap scan report for 149.156.112.168 [host down]
+Nmap scan report for 149.156.112.169 [host down]
+Nmap scan report for 149.156.112.171 [host down]
+Nmap scan report for 149.156.112.173 [host down]
+Nmap scan report for 149.156.112.174 [host down]
+Nmap scan report for 149.156.112.175 [host down]
+Nmap scan report for 149.156.112.176 [host down]
+Nmap scan report for 149.156.112.177 [host down]
+Nmap scan report for 149.156.112.178 [host down]
+Nmap scan report for 149.156.112.179 [host down]
+Nmap scan report for 149.156.112.180 [host down]
+Nmap scan report for 149.156.112.181 [host down]
+Nmap scan report for 149.156.112.182 [host down]
+Nmap scan report for 149.156.112.183 [host down]
+Nmap scan report for 149.156.112.184 [host down]
+Nmap scan report for 149.156.112.185 [host down]
+Nmap scan report for 149.156.112.186 [host down]
+Nmap scan report for 149.156.112.187 [host down]
+Nmap scan report for 149.156.112.188 [host down]
+Nmap scan report for 149.156.112.189 [host down]
+Nmap scan report for 149.156.112.190 [host down]
+Nmap scan report for 149.156.112.191 [host down]
+Nmap scan report for 149.156.112.192 [host down]
+Nmap scan report for 149.156.112.193 [host down]
+Nmap scan report for 149.156.112.194 [host down]
+Nmap scan report for 149.156.112.195 [host down]
+Nmap scan report for 149.156.112.196 [host down]
+Nmap scan report for 149.156.112.197 [host down]
+Nmap scan report for 149.156.112.198 [host down]
+Nmap scan report for 149.156.112.199 [host down]
+Nmap scan report for 149.156.112.200 [host down]
+Nmap scan report for 149.156.112.201 [host down]
+Nmap scan report for 149.156.112.202 [host down]
+Nmap scan report for 149.156.112.203 [host down]
+Nmap scan report for 149.156.112.204 [host down]
+Nmap scan report for 149.156.112.205 [host down]
+Nmap scan report for 149.156.112.206 [host down]
+Nmap scan report for 149.156.112.207 [host down]
+Nmap scan report for 149.156.112.208 [host down]
+Nmap scan report for 149.156.112.209 [host down]
+Nmap scan report for 149.156.112.210 [host down]
+Nmap scan report for 149.156.112.211 [host down]
+Nmap scan report for 149.156.112.212 [host down]
+Nmap scan report for 149.156.112.213 [host down]
+Nmap scan report for 149.156.112.214 [host down]
+Nmap scan report for 149.156.112.215 [host down]
+Nmap scan report for 149.156.112.216 [host down]
+Nmap scan report for 149.156.112.217 [host down]
+Nmap scan report for 149.156.112.218 [host down]
+Nmap scan report for 149.156.112.219 [host down]
+Nmap scan report for 149.156.112.220 [host down]
+Nmap scan report for 149.156.112.221 [host down]
+Nmap scan report for 149.156.112.222 [host down]
+Nmap scan report for 149.156.112.223 [host down]
+Nmap scan report for 149.156.112.224 [host down]
+Nmap scan report for 149.156.112.225 [host down]
+Nmap scan report for 149.156.112.226 [host down]
+Nmap scan report for 149.156.112.227 [host down]
+Nmap scan report for 149.156.112.228 [host down]
+Nmap scan report for 149.156.112.229 [host down]
+Nmap scan report for 149.156.112.230 [host down]
+Nmap scan report for 149.156.112.231 [host down]
+Nmap scan report for 149.156.112.232 [host down]
+Nmap scan report for 149.156.112.233 [host down]
+Nmap scan report for 149.156.112.234 [host down]
+Nmap scan report for 149.156.112.235 [host down]
+Nmap scan report for 149.156.112.236 [host down]
+Nmap scan report for 149.156.112.237 [host down]
+Nmap scan report for 149.156.112.238 [host down]
+Nmap scan report for 149.156.112.239 [host down]
+Nmap scan report for 149.156.112.240 [host down]
+Nmap scan report for 149.156.112.241 [host down]
+Nmap scan report for 149.156.112.242 [host down]
+Nmap scan report for 149.156.112.243 [host down]
+Nmap scan report for 149.156.112.244 [host down]
+Nmap scan report for 149.156.112.245 [host down]
+Nmap scan report for 149.156.112.246 [host down]
+Nmap scan report for 149.156.112.247 [host down]
+Nmap scan report for 149.156.112.248 [host down]
+Nmap scan report for 149.156.112.249 [host down]
+Nmap scan report for 149.156.112.251 [host down]
+Nmap scan report for 149.156.112.252 [host down]
+Nmap scan report for 149.156.112.253 [host down]
+Nmap scan report for 149.156.112.254 [host down]
+Nmap scan report for 149.156.112.255 [host down]
+Initiating SYN Stealth Scan at 10:25
+Scanning 25 hosts [1000 ports/host]
+Discovered open port 22/tcp on 149.156.112.27
+Discovered open port 22/tcp on 149.156.112.15
+Discovered open port 22/tcp on 149.156.112.111
+Discovered open port 22/tcp on 149.156.112.162
+Discovered open port 53/tcp on 149.156.112.126
+Discovered open port 53/tcp on 149.156.112.6
+Discovered open port 80/tcp on 149.156.112.15
+Discovered open port 80/tcp on 149.156.112.18
+Discovered open port 80/tcp on 149.156.112.162
+Discovered open port 80/tcp on 149.156.112.13
+Discovered open port 80/tcp on 149.156.112.172
+Discovered open port 135/tcp on 149.156.112.42
+Discovered open port 135/tcp on 149.156.112.6
+Discovered open port 135/tcp on 149.156.112.170
+Discovered open port 3306/tcp on 149.156.112.18
+Discovered open port 3389/tcp on 149.156.112.6
+Discovered open port 3389/tcp on 149.156.112.170
+Discovered open port 3389/tcp on 149.156.112.93
+Discovered open port 139/tcp on 149.156.112.42
+Discovered open port 139/tcp on 149.156.112.170
+Discovered open port 139/tcp on 149.156.112.111
+Discovered open port 139/tcp on 149.156.112.6
+Discovered open port 139/tcp on 149.156.112.13
+Discovered open port 111/tcp on 149.156.112.126
+Discovered open port 445/tcp on 149.156.112.42
+Discovered open port 445/tcp on 149.156.112.170
+Discovered open port 445/tcp on 149.156.112.111
+Discovered open port 445/tcp on 149.156.112.6
+Discovered open port 111/tcp on 149.156.112.13
+Discovered open port 445/tcp on 149.156.112.18
+Discovered open port 445/tcp on 149.156.112.13
+Discovered open port 443/tcp on 149.156.112.13
+Discovered open port 443/tcp on 149.156.112.15
+Discovered open port 427/tcp on 149.156.112.13
+Discovered open port 6547/tcp on 149.156.112.6
+Discovered open port 593/tcp on 149.156.112.6
+Discovered open port 389/tcp on 149.156.112.6
+Discovered open port 49155/tcp on 149.156.112.6
+Discovered open port 49158/tcp on 149.156.112.6
+Discovered open port 3268/tcp on 149.156.112.6
+Discovered open port 49159/tcp on 149.156.112.6
+Discovered open port 2049/tcp on 149.156.112.13
+Discovered open port 49152/tcp on 149.156.112.6
+Discovered open port 49154/tcp on 149.156.112.6
+Discovered open port 3128/tcp on 149.156.112.126
+Discovered open port 88/tcp on 149.156.112.6
+Discovered open port 3269/tcp on 149.156.112.6
+Discovered open port 3052/tcp on 149.156.112.6
+Discovered open port 2179/tcp on 149.156.112.170
+Discovered open port 2179/tcp on 149.156.112.6
+Discovered open port 49157/tcp on 149.156.112.6
+Discovered open port 49153/tcp on 149.156.112.6
+Discovered open port 2525/tcp on 149.156.112.126
+Discovered open port 1433/tcp on 149.156.112.126
+Discovered open port 548/tcp on 149.156.112.13
+Discovered open port 464/tcp on 149.156.112.6
+Discovered open port 135/tcp on 149.156.112.30
+Discovered open port 139/tcp on 149.156.112.30
+Discovered open port 445/tcp on 149.156.112.30
+Discovered open port 135/tcp on 149.156.112.172
+Discovered open port 139/tcp on 149.156.112.172
+Discovered open port 445/tcp on 149.156.112.172
+Discovered open port 445/tcp on 149.156.112.27
+Discovered open port 636/tcp on 149.156.112.6
+Discovered open port 50000/tcp on 149.156.112.13
+Discovered open port 873/tcp on 149.156.112.13
+Discovered open port 2222/tcp on 149.156.112.13
+Discovered open port 515/tcp on 149.156.112.129
+Discovered open port 50300/tcp on 149.156.112.172
+Completed SYN Stealth Scan against 149.156.112.162 in 18.95s (24 hosts left)
+Completed SYN Stealth Scan against 149.156.112.170 in 19.16s (23 hosts left)
+Completed SYN Stealth Scan against 149.156.112.29 in 19.37s (22 hosts left)
+Completed SYN Stealth Scan against 149.156.112.42 in 19.48s (21 hosts left)
+Completed SYN Stealth Scan against 149.156.112.122 in 19.62s (20 hosts left)
+Completed SYN Stealth Scan against 149.156.112.111 in 19.73s (19 hosts left)
+Completed SYN Stealth Scan against 149.156.112.15 in 19.93s (18 hosts left)
+Completed SYN Stealth Scan against 149.156.112.6 in 19.94s (17 hosts left)
+Completed SYN Stealth Scan against 149.156.112.13 in 19.94s (16 hosts left)
+Completed SYN Stealth Scan against 149.156.112.126 in 20.93s (15 hosts left)
+Discovered open port 2103/tcp on 149.156.112.172
+Discovered open port 631/tcp on 149.156.112.129
+Discovered open port 10012/tcp on 149.156.112.99
+Discovered open port 1801/tcp on 149.156.112.172
+Discovered open port 8899/tcp on 149.156.112.129
+Discovered open port 2107/tcp on 149.156.112.172
+Discovered open port 10010/tcp on 149.156.112.99
+Discovered open port 2179/tcp on 149.156.112.172
+Discovered open port 1433/tcp on 149.156.112.172
+Discovered open port 3333/tcp on 149.156.112.172
+Discovered open port 2105/tcp on 149.156.112.172
+Completed SYN Stealth Scan against 149.156.112.125 in 51.30s (14 hosts left)
+Completed SYN Stealth Scan against 149.156.112.129 in 51.73s (13 hosts left)
+Completed SYN Stealth Scan against 149.156.112.250 in 52.76s (12 hosts left)
+Completed SYN Stealth Scan against 149.156.112.93 in 53.02s (11 hosts left)
+Completed SYN Stealth Scan against 149.156.112.18 in 53.39s (10 hosts left)
+Completed SYN Stealth Scan against 149.156.112.30 in 53.55s (9 hosts left)
+Completed SYN Stealth Scan against 149.156.112.52 in 53.59s (8 hosts left)
+Completed SYN Stealth Scan against 149.156.112.99 in 53.76s (7 hosts left)
+Completed SYN Stealth Scan against 149.156.112.51 in 53.80s (6 hosts left)
+Completed SYN Stealth Scan against 149.156.112.46 in 53.81s (5 hosts left)
+Completed SYN Stealth Scan against 149.156.112.100 in 53.89s (4 hosts left)
+Completed SYN Stealth Scan against 149.156.112.27 in 53.96s (3 hosts left)
+Completed SYN Stealth Scan against 149.156.112.160 in 54.00s (2 hosts left)
+Completed SYN Stealth Scan against 149.156.112.172 in 54.00s (1 host left)
+Completed SYN Stealth Scan at 10:26, 54.13s elapsed (25000 total ports)
+Initiating Service scan at 10:26
+Scanning 80 services on 25 hosts
+Completed Service scan at 10:29, 177.43s elapsed (80 services on 25 hosts)
+Initiating OS detection (try #1) against 25 hosts
+Retrying OS detection (try #2) against 20 hosts
+Retrying OS detection (try #3) against 8 hosts
+Retrying OS detection (try #4) against 8 hosts
+Retrying OS detection (try #5) against 8 hosts
+Initiating Traceroute at 10:29
+Completed Traceroute at 10:30, 16.48s elapsed
+Initiating Parallel DNS resolution of 26 hosts. at 10:30
+Completed Parallel DNS resolution of 26 hosts. at 10:30, 0.00s elapsed
+NSE: Script scanning 25 hosts.
+Initiating NSE at 10:30
+Completed NSE at 10:31, 61.68s elapsed
+Nmap scan report for krywan.metal.agh.edu.pl (149.156.112.6)
+Host is up (0.00087s latency).
+Not shown: 978 closed ports
+PORT      STATE SERVICE         VERSION
+53/tcp    open  domain?
+88/tcp    open  kerberos-sec    Windows 2003 Kerberos (server time: 2023-10-25 08:26:30Z)
+135/tcp   open  msrpc           Microsoft Windows RPC
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  netbios-ssn
+464/tcp   open  kpasswd5?
+593/tcp   open  ncacn_http      Microsoft Windows RPC over HTTP 1.0
+636/tcp   open  tcpwrapped
+2179/tcp  open  vmrdp?
+3052/tcp  open  http            Jetty 9.1.3.v20140225
+|_http-methods: No Allow or Public header in OPTIONS response (status code 403)
+|_http-title: Did not follow redirect to https://192.168.102.1:6547
+3268/tcp  open  ldap
+3269/tcp  open  tcpwrapped
+3389/tcp  open  ms-wbt-server?
+6547/tcp  open  powerchuteplus?
+49152/tcp open  msrpc           Microsoft Windows RPC
+49153/tcp open  msrpc           Microsoft Windows RPC
+49154/tcp open  msrpc           Microsoft Windows RPC
+49155/tcp open  msrpc           Microsoft Windows RPC
+49157/tcp open  ncacn_http      Microsoft Windows RPC over HTTP 1.0
+49158/tcp open  msrpc           Microsoft Windows RPC
+49159/tcp open  msrpc           Microsoft Windows RPC
+Device type: general purpose|phone
+Running (JUST GUESSING): Microsoft Windows 7|Vista|2008|Phone (95%)
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows 7 Professional (95%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (94%), Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008 (94%), Microsoft Windows Vista Home Premium SP1 (93%), Microsoft Windows Server 2008 SP1 (90%), Microsoft Windows Vista SP0 - SP1 (90%), Microsoft Windows 7 SP1 or Windows Server 2008 SP1 - SP2 (88%), Microsoft Windows Phone 7.5 (88%), Microsoft Windows Vista SP2 (87%), Microsoft Windows Server 2008 Beta 3 (87%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 41.945 days (since Wed Sep 13 11:50:29 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=263 (Good luck!)
+IP ID Sequence Generation: Busy server or unknown class
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: KRYWAN, NetBIOS user: <unknown>, NetBIOS MAC: 44:a8:42:2b:40:8c (unknown)
+|   Names
+|     KRYWAN<00>           Flags: <unique><active>
+|     METAL<00>            Flags: <group><active>
+|     METAL<1c>            Flags: <group><active>
+|     KRYWAN<20>           Flags: <unique><active>
+|_    METAL<1b>            Flags: <unique><active>
+| smb-os-discovery: 
+|   OS: Windows Server 2012 R2 Datacenter 9600 (Windows Server 2012 R2 Datacenter 6.3)
+|   OS CPE: cpe:/o:microsoft:windows_server_2012::-
+|   Computer name: krywan
+|   NetBIOS computer name: KRYWAN
+|   Domain name: lab.metal.agh.edu.pl
+|   Forest name: lab.metal.agh.edu.pl
+|   FQDN: krywan.lab.metal.agh.edu.pl
+|   NetBIOS domain name: METAL
+|_  System time: 2023-10-25T10:30:25+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: <blank>
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing required
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.21 ms krywan.metal.agh.edu.pl (149.156.112.6)
+
+Nmap scan report for umbreon.metal.agh.edu.pl (149.156.112.13)
+Host is up (0.00089s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE     VERSION
+80/tcp    open  http        lighttpd 1.4.64
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to http://umbreon.metal.agh.edu.pl:13080/
+111/tcp   open  rpcbind     2-4 (RPC #100000)
+| rpcinfo: 
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100003  3,4         2049/tcp  nfs
+|   100003  3,4         2049/udp  nfs
+|   100005  1,2,3        892/tcp  mountd
+|   100005  1,2,3        892/udp  mountd
+|   100021  1,3,4      33264/tcp  nlockmgr
+|   100021  1,3,4      33264/udp  nlockmgr
+|   100024  1            662/tcp  status
+|   100024  1            662/udp  status
+|   100227  3           2049/tcp  nfs_acl
+|_  100227  3           2049/udp  nfs_acl
+139/tcp   open  netbios-ssn Samba smbd 3.X (workgroup: UMBREON)
+427/tcp   open  svrloc?
+443/tcp   open  ssl/http    lighttpd 1.4.64
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://umbreon.metal.agh.edu.pl:13443/
+| ssl-cert: Subject: commonName=XN-Series NAS/organizationName=Qsan Technology, Inc./stateOrProvinceName=Taiwan/countryName=TW
+| Issuer: commonName=XN-Series NAS/organizationName=Qsan Technology, Inc./stateOrProvinceName=Taiwan/countryName=TW
+| Public Key type: rsa
+| Public Key bits: 2048
+| Not valid before: 2020-02-14T04:14:17+00:00
+| Not valid after:  2040-02-09T04:14:17+00:00
+| MD5:   80b8 6056 f4f3 bfa5 2f1f 335a bff7 04d3
+|_SHA-1: 6d40 c06d f546 2d4b a2a3 95f5 1ef8 99c8 1e9e 766c
+445/tcp   open  netbios-ssn Samba smbd 3.X (workgroup: UMBREON)
+548/tcp   open  afp?
+| afp-serverinfo: 
+|   | Server Flags: 0x8f79
+|   |   Super Client: Yes
+|   |   UUIDs: Yes
+|   |   UTF8 Server Name: Yes
+|   |   Open Directory: Yes
+|   |   Reconnect: No
+|   |   Server Notifications: Yes
+|   |   TCP/IP: Yes
+|   |   Server Signature: Yes
+|   |   ServerMessages: Yes
+|   |   Password Saving Prohibited: No
+|   |   Password Changing: No
+|   |_  Copy File: Yes
+|   Server Name: umbreon
+|   Machine Type: Netatalk3.1.13
+|   AFP Versions: AFP2.2, AFPX03, AFP3.1, AFP3.2, AFP3.3, AFP3.4
+|   UAMs: DHX2, DHCAST128
+|   Server Signature: 1fa2498aa07ce44de60f6984c6040e80
+|   Network Address 1: 169.254.1.234
+|_  UTF8 Server Name: umbreon
+873/tcp   open  rsync       (protocol version 31)
+2049/tcp  open  nfs         3-4 (RPC #100003)
+2222/tcp  open  ssh         Dropbear sshd 2022.83 (protocol 2.0)
+50000/tcp open  http        Apache httpd 2.4.55 ((Unix) OpenSSL/1.1.1q PHP/8.1.14)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 403)
+|_http-title: 403 Forbidden
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port548-TCP:V=6.40%I=7%D=10/25%Time=6538D141%P=x86_64-redhat-linux-gnu%
+SF:r(afp,195,"\x01\x03\0\x01\0\0\0\0\0\0\x01\x85\0\0\0\0\0\x1a\0\)\0T\0d\x
+SF:8fy\x07umbreon\x01d\x01t\x01{\x01\|\x0eNetatalk3\.1\.13\x06\x06AFP2\.2\
+SF:x06AFPX03\x06AFP3\.1\x06AFP3\.2\x06AFP3\.3\x06AFP3\.4\x02\x04DHX2\tDHCA
+SF:ST128\0\0\0\0\0\x80\x02\0\x01\x80\x03\0\x02\x80\x02\x80\x02\x80\x02\x80
+SF:\x04\x80\x02@\x04\x87\xc2@\x04X4@\x04\x20\x08@\x02\x16\xd0\x80\x01\x01\
+SF:x01\0\x02\x80\x02\x80\x02\x9cr\x80\x04\"\x88@\x04A\x04@\x04A\x04@\x04A\
+SF:x04@\x04I\$@\x0eUT\xe0\x10\]t\x10\x10>\xf8\x10\x7f\xfc\x7f\xfe\x20\x04@
+SF:\x04\x1f\xfc\x7f\xf8\0\x07\xc0\0\0\x04@\0\0\x03\x80\0\0\x04@\0\xaf\xf9\
+SF:?\xf5\0\x02\x80\0\xaf\xfc\x7f\xf5\0\0\0\0\0\0\0\0\0\x80\x02\0\x01\x80\x
+SF:03\0\x03\x80\x03\x80\x03\x80\x03\x80\x07\x80\x03\xc0\x07\x87\xc3\xc0\x0
+SF:7\xdf\xf7\xc0\x07\xff\xff\xc0\x03\xff\xff\x80\x01\xff\xff\0\x03\xff\xff
+SF:\x80\x03\xff\xff\x80\x07\xff\xff\xc0\x07\xff\xff\xc0\x07\xff\xff\xc0\x0
+SF:7\xff\xff\xc0\x07\xff\xff\xc0\x0f\xff\xff\xe0\x1f\xff\xff\xf0\x1f\xff\x
+SF:ff\xf0\x7f\xff\xff\xfe\?\xff\xff\xfc\x1f\xff\xff\xf8\0\x07\xc0\0\0\x07\
+SF:xc0\0\0\x03\x80\0\0\x04@\0\xaf\xf9\?\xf5\0\x02\x80\0\xaf\xfc\x7f\xf5\0\
+SF:0\0\0\x1f\xa2I\x8a\xa0\|\xe4M\xe6\x0fi\x84\xc6\x04\x0e\x80\x01\x06\x01\
+SF:xa9\xfe\x01\xea\0\0\x07umbreon");
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=80%CT=1%CU=36738%PV=N%DS=3%DC=T%G=Y%TM=6538D2
+OS:4B%P=x86_64-redhat-linux-gnu)SEQ(SP=105%GCD=1%ISR=102%TI=Z%II=I%TS=8)SEQ
+OS:(SP=103%GCD=1%ISR=101%TI=Z%TS=8)OPS(O1=M5B4ST11NW6%O2=M5B4ST11NW6%O3=M5B
+OS:4NNT11NW6%O4=M5B4ST11NW6%O5=M5B4ST11NW6%O6=M5B4ST11)WIN(W1=7120%W2=7120%
+OS:W3=7120%W4=7120%W5=7120%W6=7120)ECN(R=Y%DF=Y%T=41%W=7210%O=M5B4NNSNW6%CC
+OS:=Y%Q=)T1(R=Y%DF=Y%T=41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y
+OS:%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%I
+OS:PL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=4623%RUD=G)U1(R=N)IE(R=Y%DFI=N%T=4
+OS:1%CD=S)
+
+Uptime guess: 84.651 days (since Tue Aug  1 18:53:36 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: UMBREON, NetBIOS user: <unknown>, NetBIOS MAC: <unknown>
+|   Names
+|     UMBREON<00>          Flags: <unique><active>
+|     UMBREON<03>          Flags: <unique><active>
+|     UMBREON<20>          Flags: <unique><active>
+|     \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+|     METAL<00>            Flags: <group><active>
+|     METAL<1d>            Flags: <unique><active>
+|_    METAL<1e>            Flags: <group><active>
+| smb-os-discovery: 
+|   OS: Windows 6.1 (Samba 4.17.4)
+|   Computer name: umbreon
+|   NetBIOS computer name: UMBREON
+|   Domain name: 
+|   FQDN: umbreon
+|_  System time: 2023-10-25T10:30:29+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: <blank>
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   0.78 ms umbreon.metal.agh.edu.pl (149.156.112.13)
+
+Nmap scan report for metal.metal.agh.edu.pl (149.156.112.15)
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+80/tcp  open  http    nginx 1.19.10
+|_http-methods: No Allow or Public header in OPTIONS response (status code 301)
+|_http-title: Did not follow redirect to https://metal.metal.agh.edu.pl/
+443/tcp open  http    nginx
+|_http-methods: No Allow or Public header in OPTIONS response (status code 400)
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+| ssl-cert: Subject: commonName=www.metal.agh.edu.pl
+| Issuer: commonName=R3/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Not valid before: 2023-09-25T06:10:12+00:00
+| Not valid after:  2023-12-24T07:10:11+00:00
+| MD5:   f683 db9c 9949 7bdb f763 a5fa f0dc 5cca
+|_SHA-1: 746e facb 0a91 45b1 8e45 9a8b 1853 69d8 4cf0 2b15
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=6.40%I=7%D=10/25%Time=6538D13C%P=x86_64-redhat-linux-gnu%r
+SF:(NULL,29,"SSH-2\.0-OpenSSH_8\.9p1\x20Ubuntu-3ubuntu0\.3\r\n");
+Device type: general purpose|webcam|firewall|WAP
+Running (JUST GUESSING): Linux 2.6.X|3.X|2.4.X (92%), Tandberg embedded (86%), FreeBSD 6.X (86%), Check Point Linux 2.6.X (85%), Fortinet Linux 2.6.X (85%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:3 cpe:/h:tandberg:vcs cpe:/o:freebsd:freebsd:6.2 cpe:/o:linux:linux_kernel:2.6.18 cpe:/o:linux:linux_kernel:2.4 cpe:/o:fortinet:linux_kernel:2.6
+Aggressive OS guesses: Linux 2.6.32 - 2.6.35 (92%), Linux 2.6.32 - 2.6.39 (92%), Linux 2.6.32 - 3.0 (90%), Linux 3.2 - 3.6 (89%), Linux 2.6.18 (89%), Linux 2.6.32 (89%), Linux 2.6.34 (88%), Linux 3.5 (88%), Linux 3.4 (88%), Linux 2.6.32 - 2.6.33 (87%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 17.019 days (since Sun Oct  8 10:03:04 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.18 ms metal.metal.agh.edu.pl (149.156.112.15)
+
+Nmap scan report for ipguru.metal.agh.edu.pl (149.156.112.18)
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Apache httpd 2.4.56 ((Unix))
+|_http-methods: POST OPTIONS HEAD GET
+|_http-title: Site doesn't have a title (text/html).
+445/tcp  open  microsoft-ds?
+3306/tcp open  mysql         MySQL (unauthorized)
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=80%CT=1%CU=43218%PV=N%DS=3%DC=T%G=Y%TM=6538D2
+OS:4B%P=x86_64-redhat-linux-gnu)SEQ(SP=102%GCD=1%ISR=105%TI=Z%II=RI%TS=21)O
+OS:PS(O1=M5B4NW6NNT11SLL%O2=M5B4NW6NNT11SLL%O3=M5B4NW6NNT11%O4=M5B4NW6NNT11
+OS:SLL%O5=M5B4NW6NNT11SLL%O6=M5B4NNT11SLL)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FF
+OS:FF%W5=FFFF%W6=FFFF)ECN(R=Y%DF=Y%T=41%W=FFFF%O=M5B4NW6SLL%CC=N%Q=)T1(R=Y%
+OS:DF=Y%T=41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=N%T=41%W=
+OS:0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=38%UN=0%RI
+OS:PL=G%RID=G%RIPCK=G%RUCK=3CF5%RUD=G)IE(R=Y%DFI=S%T=41%CD=S)
+
+Uptime guess: 0.001 days (since Wed Oct 25 10:29:45 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=260 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: IPGURU, NetBIOS user: <unknown>, NetBIOS MAC: 00:3e:e1:c8:6c:fb (Apple)
+|   Names
+|     IPGURU<00>           Flags: <unique><active>
+|     IPGURU<20>           Flags: <unique><active>
+|_    WORKGROUP<00>        Flags: <group><active>
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.13 ms ipguru.metal.agh.edu.pl (149.156.112.18)
+
+Nmap scan report for 149.156.112.27
+Host is up (0.00099s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 5.1p1 Debian 5 (protocol 2.0)
+| ssh-hostkey: 1024 b2:a4:0a:ab:ed:51:8d:33:db:b9:49:da:c3:13:2f:7f (DSA)
+|_2048 1a:29:6d:28:ee:f2:22:bc:3e:ed:5b:fa:10:b0:59:8d (RSA)
+445/tcp open  netbios-ssn Samba smbd 3.X (workgroup: WORKGROUP)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.15 - 2.6.26 (likely embedded)
+Uptime guess: 84.642 days (since Tue Aug  1 19:06:51 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=191 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+| smb-os-discovery: 
+|   OS: Unix (Samba 3.6.6)
+|   NetBIOS computer name: 
+|   Workgroup: WORKGROUP
+|_  System time: 2023-10-25T10:30:19+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: guest
+|   Share-level authentication (dangerous)
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server doesn't support SMBv2 protocol
+
+TRACEROUTE (using port 22/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.170
+2   ...
+3   0.80 ms 149.156.112.27
+
+Nmap scan report for 149.156.112.29
+Host is up (0.00087s latency).
+All 1000 scanned ports on 149.156.112.29 are closed
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.18
+OS details: Linux 2.6.18, Linux 2.6.30
+Network Distance: 3 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.170
+2   ...
+3   0.95 ms 149.156.112.29
+
+Nmap scan report for stalow1.metal.agh.edu.pl (149.156.112.30)
+Host is up (0.0022s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE       VERSION
+135/tcp open  msrpc         Microsoft Windows RPC
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds?
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running (JUST GUESSING): Microsoft Windows 2008|Vista|7|Phone (88%), FreeBSD 6.X (85%)
+OS CPE: cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows cpe:/o:freebsd:freebsd:6.2
+Aggressive OS guesses: Microsoft Windows Server 2008 SP1 (88%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (87%), Microsoft Windows Phone 7.5 (86%), Microsoft Windows 7 Professional (86%), FreeBSD 6.2-RELEASE (85%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 6.973 days (since Wed Oct 18 11:10:32 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=256 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: DESKTOP-8ITC8OO, NetBIOS user: <unknown>, NetBIOS MAC: 00:e0:6c:38:9c:06 (Ultra Electronics Limited (AEP Networks))
+|   Names
+|     DESKTOP-8ITC8OO<00>  Flags: <unique><active>
+|     WORKGROUP<00>        Flags: <group><active>
+|_    DESKTOP-8ITC8OO<20>  Flags: <unique><active>
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 135/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   2.51 ms stalow1.metal.agh.edu.pl (149.156.112.30)
+
+Nmap scan report for willow.metal.agh.edu.pl (149.156.112.42)
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE     VERSION
+135/tcp open  msrpc       Microsoft Windows RPC
+139/tcp open  netbios-ssn
+445/tcp open  netbios-ssn
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=135%CT=1%CU=41026%PV=N%DS=3%DC=T%G=Y%TM=6538D
+OS:24B%P=x86_64-redhat-linux-gnu)SEQ(SP=101%GCD=1%ISR=109%TI=I%II=I%SS=S%TS
+OS:=U)SEQ(SP=101%GCD=1%ISR=109%TI=I%TS=U)OPS(O1=M5B4NW8NNS%O2=M5B4NW8NNS%O3
+OS:=M5B4NW8%O4=M5B4NW8NNS%O5=M5B4NW8NNS%O6=M5B4NNS)WIN(W1=FFFF%W2=FFFF%W3=F
+OS:FFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%T=81%W=FFFF%O=M5B4NW8NNS%CC=N%Q
+OS:=)T1(R=Y%DF=Y%T=81%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=
+OS:Y%T=81%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=81%IPL=1
+OS:64%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=3546%RUD=G)U1(R=N)IE(R=Y%DFI=N%T=81%CD
+OS:=Z)
+
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: DESKTOP-7A9S1A9, NetBIOS user: <unknown>, NetBIOS MAC: 2c:56:dc:3d:09:1e (unknown)
+|   Names
+|     DESKTOP-7A9S1A9<20>  Flags: <unique><active>
+|     DESKTOP-7A9S1A9<00>  Flags: <unique><active>
+|     WORKGROUP<00>        Flags: <group><active>
+|     WORKGROUP<1e>        Flags: <group><active>
+|     WORKGROUP<1d>        Flags: <unique><active>
+|_    \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+| smb-os-discovery: 
+|   OS: Windows 10 Education 19045 (Windows 10 Education 6.3)
+|   NetBIOS computer name: DESKTOP-7A9S1A9
+|   Workgroup: WORKGROUP
+|_  System time: 2023-10-25T10:30:28+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: <blank>
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.11 ms willow.metal.agh.edu.pl (149.156.112.42)
+
+Nmap scan report for enigma.metal.agh.edu.pl (149.156.112.46)
+Host is up (0.0010s latency).
+Not shown: 997 closed ports
+PORT    STATE    SERVICE      VERSION
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+445/tcp filtered microsoft-ds
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|WAP|broadband router|router
+Running (JUST GUESSING): Linux 2.6.X|3.X (97%), Microsoft Windows 7|2008|Vista (91%), Motorola embedded (89%), Acorp embedded (89%), Actiontec embedded (89%), AT&T embedded (89%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.18 cpe:/o:microsoft:windows_7::sp1 cpe:/o:microsoft:windows_server_2008::sp2 cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:linux:linux_kernel:3 cpe:/o:microsoft:windows_8 cpe:/h:motorola:rfs_6000 cpe:/h:actiontec:gt701
+Aggressive OS guesses: Linux 2.6.18 (97%), Linux 2.6.30 (97%), Linux 2.6.28 (95%), Microsoft Windows 7 SP1 (91%), Microsoft Windows 7 SP1 or Windows Server 2008 SP1 - SP2 (91%), Microsoft Windows Server 2008 R2 (91%), Microsoft Windows Server 2008 SP1 (91%), Microsoft Windows 7 (91%), Microsoft Windows 7 Professional (91%), Microsoft Windows Vista Home Premium SP1 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.170
+2   ...
+3   1.09 ms enigma.metal.agh.edu.pl (149.156.112.46)
+
+Nmap scan report for ziamol.metal.agh.edu.pl (149.156.112.51)
+Host is up (0.0035s latency).
+All 1000 scanned ports on ziamol.metal.agh.edu.pl (149.156.112.51) are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.95 ms ziamol.metal.agh.edu.pl (149.156.112.51)
+
+Nmap scan report for koala.metal.agh.edu.pl (149.156.112.52)
+Host is up (0.070s latency).
+All 1000 scanned ports on koala.metal.agh.edu.pl (149.156.112.52) are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 2
+3   2.24 ms koala.metal.agh.edu.pl (149.156.112.52)
+
+Nmap scan report for netzsch.metal.agh.edu.pl (149.156.112.93)
+Host is up (0.0013s latency).
+Not shown: 996 closed ports
+PORT     STATE    SERVICE        VERSION
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+3389/tcp open     ms-wbt-server?
+Device type: general purpose|specialized
+Running (JUST GUESSING): FreeBSD 6.X (88%), AVtech embedded (88%), Microsoft Windows 2008|XP (87%)
+OS CPE: cpe:/o:freebsd:freebsd:6.3 cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows_xp::sp2
+Aggressive OS guesses: FreeBSD 6.3-RELEASE (88%), AVtech Room Alert 26W environmental monitor (88%), Microsoft Windows Server 2008 SP1 (87%), FreeBSD 6.2-RELEASE (85%), Microsoft Windows XP SP2 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=252 (Good luck!)
+IP ID Sequence Generation: Incremental
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.170
+2   ...
+3   0.97 ms netzsch.metal.agh.edu.pl (149.156.112.93)
+
+Nmap scan report for pwojnaro.metal.agh.edu.pl (149.156.112.99)
+Host is up (0.0015s latency).
+Not shown: 998 filtered ports
+PORT      STATE SERVICE VERSION
+10010/tcp open  ssh     OpenSSH 9.2p1 Debian 2 (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+10012/tcp open  unknown
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Linux 2.6.X (88%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.32
+Aggressive OS guesses: Linux 2.6.32 - 2.6.35 (88%), Linux 2.6.32 - 2.6.39 (87%), Linux 2.6.31 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 11.989 days (since Fri Oct 13 10:46:53 2023)
+Network Distance: 4 hops
+TCP Sequence Prediction: Difficulty=253 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 10012/tcp)
+HOP RTT     ADDRESS
+1   ... 3
+4   1.72 ms pwojnaro.metal.agh.edu.pl (149.156.112.99)
+
+Nmap scan report for monika.metal.agh.edu.pl (149.156.112.100)
+Host is up (0.0015s latency).
+All 1000 scanned ports on monika.metal.agh.edu.pl (149.156.112.100) are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   ... 2
+3   2.11 ms monika.metal.agh.edu.pl (149.156.112.100)
+
+Nmap scan report for jameson.metal.agh.edu.pl (149.156.112.111)
+Host is up (0.00099s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 9.2p1 Debian 2 (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+139/tcp open  netbios-ssn Samba smbd
+445/tcp open  netbios-ssn Samba smbd
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=22%CT=1%CU=40763%PV=N%DS=3%DC=T%G=Y%TM=6538D2
+OS:4B%P=x86_64-redhat-linux-gnu)SEQ(SP=103%GCD=1%ISR=106%TI=Z%II=I%TS=A)OPS
+OS:(O1=M5B4ST11NW7%O2=M5B4ST11NW7%O3=M5B4NNT11NW7%O4=M5B4ST11NW7%O5=M5B4ST1
+OS:1NW7%O6=M5B4ST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN
+OS:(R=Y%DF=Y%T=41%W=FAF0%O=M5B4NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=41%S=O%A=S+%F=A
+OS:S%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=
+OS:0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RU
+OS:CK=3608%RUD=G)U1(R=N)IE(R=Y%DFI=N%T=41%CD=S)
+
+Uptime guess: 16.128 days (since Mon Oct  9 07:26:13 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=247 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: JAMESON, NetBIOS user: <unknown>, NetBIOS MAC: <unknown>
+|   Names
+|     JAMESON<00>          Flags: <unique><active>
+|     JAMESON<03>          Flags: <unique><active>
+|     JAMESON<20>          Flags: <unique><active>
+|     \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+|     WORKGROUP<00>        Flags: <group><active>
+|     WORKGROUP<1d>        Flags: <unique><active>
+|_    WORKGROUP<1e>        Flags: <group><active>
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.65 ms jameson.metal.agh.edu.pl (149.156.112.111)
+
+Nmap scan report for lacoste.metal.agh.edu.pl (149.156.112.122)
+Host is up (0.0010s latency).
+All 1000 scanned ports on lacoste.metal.agh.edu.pl (149.156.112.122) are closed
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.18
+OS details: Linux 2.6.18, Linux 2.6.30
+Network Distance: 3 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.63 ms lacoste.metal.agh.edu.pl (149.156.112.122)
+
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.125)
+Host is up (0.0018s latency).
+All 1000 scanned ports on b6rtr.agh.edu.pl (149.156.112.125) are closed
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+
+Nmap scan report for 149.156.112.126
+Host is up (0.0010s latency).
+Not shown: 993 closed ports
+PORT     STATE    SERVICE       VERSION
+53/tcp   open     tcpwrapped
+111/tcp  open     rpcbind       2-4 (RPC #100000)
+| rpcinfo: 
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|_  100000  2,3,4        111/udp  rpcbind
+1433/tcp open     ms-sql-s      Microsoft SQL Server  14.00.3456.00
+2222/tcp filtered EtherNet/IP-1
+2525/tcp open     ssh           (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+3128/tcp open     tcpwrapped
+5555/tcp filtered freeciv
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port2525-TCP:V=6.40%I=7%D=10/25%Time=6538D148%P=x86_64-redhat-linux-gnu
+SF:%r(NULL,29,"SSH-2\.0-OpenSSH_8\.2p1\x20Ubuntu-4ubuntu0\.9\r\n");
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=53%CT=1%CU=32981%PV=N%DS=3%DC=T%G=Y%TM=6538D2
+OS:4B%P=x86_64-redhat-linux-gnu)SEQ(SP=100%GCD=1%ISR=101%TI=Z%II=I%TS=A)OPS
+OS:(O1=M5B4ST11NW7%O2=M5B4ST11NW7%O3=M5B4NNT11NW7%O4=M5B4ST11NW7%O5=M5B4ST1
+OS:1NW7%O6=M5B4ST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN
+OS:(R=Y%DF=Y%TG=40%W=FAF0%O=M5B4NNSNW7%CC=Y%Q=)ECN(R=Y%DF=Y%T=41%W=FAF0%O=M
+OS:5B4NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%TG=40%S=O%A=S+%F=AS%RD=0%Q=)T1(R=Y%DF=Y%T=
+OS:41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%TG=40%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T5(R=Y%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=
+OS:N)T7(R=N)U1(R=N)U1(R=Y%DF=N%T=41%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=
+OS:545F%RUD=G)IE(R=Y%DFI=N%TG=40%CD=S)IE(R=Y%DFI=N%T=41%CD=S)
+
+Uptime guess: 15.729 days (since Mon Oct  9 17:00:44 2023)
+Network Distance: 3 hops
+TCP Sequence Prediction: Difficulty=249 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| ms-sql-info: 
+|   [149.156.112.126:1433]
+|     Version: Microsoft SQL Server 
+|       Version number: 14.00.3456.00
+|       Product: Microsoft SQL Server 
+|_    TCP port: 1433
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.33 ms 149.156.112.126
+
+Nmap scan report for 149.156.112.129
+Host is up (0.0017s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE VERSION
+515/tcp  open  printer
+631/tcp  open  ipp?
+8899/tcp open  http    Debut embedded httpd 1.30 (Brother/HP printer http admin)
+| http-robots.txt: 1 disallowed entry 
+|_/
+| http-title: Brother MFC-9140CDN
+|_Requested resource was /general/status.html
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=515%CT=1%CU=40111%PV=N%DS=4%DC=T%G=Y%TM=6538D
+OS:24B%P=x86_64-redhat-linux-gnu)SEQ(SP=104%GCD=1%ISR=10B%II=I%TS=A)OPS(O1=
+OS:M5B4NW0NNSNNT11%O2=M578NW0NNSNNT11%O3=M280NW0NNT11%O4=M5B4NW0NNSNNT11%O5
+OS:=M218NW0NNSNNT11%O6=M109NNSNNT11)WIN(W1=3E38%W2=3BA4%W3=3AE0%W4=3E38%W5=
+OS:3950%W6=3952)ECN(R=Y%DF=Y%T=41%W=3908%O=M5B4NW0NNS%CC=N%Q=)T1(R=Y%DF=Y%T
+OS:=41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=42%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=42%IPL=164%UN=0%RIPL=G%
+OS:RID=G%RIPCK=G%RUCK=3882%RUD=G)U1(R=N)IE(R=Y%DFI=N%T=42%CD=S)
+
+Uptime guess: 35.289 days (since Wed Sep 20 03:35:07 2023)
+Network Distance: 4 hops
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: Busy server or unknown class
+Service Info: Device: printer
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+4   1.05 ms 149.156.112.129
+
+Nmap scan report for metody.metal.agh.edu.pl (149.156.112.143)
+Host is up (0.0016s latency).
+All 1000 scanned ports on metody.metal.agh.edu.pl (149.156.112.143) are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 4 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+4   1.12 ms metody.metal.agh.edu.pl (149.156.112.143)
+
+Nmap scan report for 149.156.112.160
+Host is up (0.0041s latency).
+All 1000 scanned ports on 149.156.112.160 are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 4 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+4   2.22 ms 149.156.112.160
+
+Nmap scan report for heavy.metal.agh.edu.pl (149.156.112.162)
+Host is up (0.00097s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+80/tcp open  http    Apache httpd 2.4.52 ((Ubuntu))
+|_http-methods: HEAD GET POST OPTIONS
+|_http-title:  Sieci komputerowe - materia\xB3y do zaj\xEA\xE6 
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=6.40%I=7%D=10/25%Time=6538D14D%P=x86_64-redhat-linux-gnu%r
+SF:(NULL,29,"SSH-2\.0-OpenSSH_8\.9p1\x20Ubuntu-3ubuntu0\.4\r\n");
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=22%CT=1%CU=37056%PV=N%DS=4%DC=T%G=Y%TM=6538D2
+OS:4B%P=x86_64-redhat-linux-gnu)SEQ(SP=100%GCD=1%ISR=104%TI=Z%II=I%TS=A)OPS
+OS:(O1=M5B4ST11NW7%O2=M5B4ST11NW7%O3=M5B4NNT11NW7%O4=M5B4ST11NW7%O5=M5B4ST1
+OS:1NW7%O6=M5B4ST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN
+OS:(R=Y%DF=Y%T=41%W=FAF0%O=M5B4NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=41%S=O%A=S+%F=A
+OS:S%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=
+OS:0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RU
+OS:CK=4450%RUD=G)U1(R=N)IE(R=Y%DFI=N%T=41%CD=S)
+
+Uptime guess: 24.133 days (since Sun Oct  1 07:20:03 2023)
+Network Distance: 4 hops
+TCP Sequence Prediction: Difficulty=263 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+4   0.75 ms heavy.metal.agh.edu.pl (149.156.112.162)
+
+Nmap scan report for chivas.metal.agh.edu.pl (149.156.112.170)
+Host is up (0.0010s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE        VERSION
+135/tcp  open  msrpc          Microsoft Windows RPC
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds?
+2179/tcp open  vmrdp?
+3389/tcp open  ms-wbt-server?
+No OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/25%OT=135%CT=1%CU=37677%PV=N%DS=4%DC=T%G=Y%TM=6538D
+OS:24B%P=x86_64-redhat-linux-gnu)SEQ(SP=106%GCD=1%ISR=10B%TI=I%II=I%SS=S%TS
+OS:=U)SEQ(SP=107%GCD=1%ISR=10B%TI=I%TS=U)OPS(O1=M5B4NW8NNS%O2=M5B4NW8NNS%O3
+OS:=M5B4NW8%O4=M5B4NW8NNS%O5=M5B4NW8NNS%O6=M5B4NNS)WIN(W1=FFFF%W2=FFFF%W3=F
+OS:FFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%TG=80%W=FFFF%O=M5B4NW8NNS%CC=Y%
+OS:Q=)ECN(R=Y%DF=Y%T=82%W=FFFF%O=M5B4NW8NNS%CC=Y%Q=)T1(R=Y%DF=Y%TG=80%S=O%A
+OS:=S+%F=AS%RD=0%Q=)T1(R=Y%DF=Y%T=82%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4
+OS:(R=N)T5(R=Y%DF=Y%TG=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T5(R=Y%DF=Y%T=82%W=0
+OS:%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=N)U1(R=Y%DF=N%T=82%IPL=164%
+OS:UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=41DB%RUD=G)IE(R=Y%DFI=N%TG=80%CD=Z)IE(R=Y
+OS:%DFI=N%T=82%CD=Z)
+
+Network Distance: 4 hops
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: 
+|   NetBIOS name: WIN-5S0FQRPQDPN, NetBIOS user: <unknown>, NetBIOS MAC: ac:1f:6b:98:99:ae (unknown)
+|   Names
+|     WIN-5S0FQRPQDPN<00>  Flags: <unique><active>
+|     WORKGROUP<00>        Flags: <group><active>
+|_    WIN-5S0FQRPQDPN<20>  Flags: <unique><active>
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   0.41 ms 192.168.102.1
+2   ...
+3   1.25 ms b6rtr.agh.edu.pl (149.156.112.125)
+4   0.75 ms chivas.metal.agh.edu.pl (149.156.112.170)
+
+Nmap scan report for klimek.metal.agh.edu.pl (149.156.112.172)
+Host is up (0.0011s latency).
+Not shown: 988 filtered ports
+PORT      STATE SERVICE       VERSION
+80/tcp    open  http          Microsoft IIS httpd 10.0
+| http-methods: OPTIONS TRACE GET HEAD POST
+| Potentially risky methods: TRACE
+|_See http://nmap.org/nsedoc/scripts/http-methods.html
+|_http-title: IIS Windows
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds?
+1433/tcp  open  ms-sql-s      Microsoft SQL Server  14.00.3451.00
+1801/tcp  open  msmq?
+2103/tcp  open  msrpc         Microsoft Windows RPC
+2105/tcp  open  msrpc         Microsoft Windows RPC
+2107/tcp  open  msrpc         Microsoft Windows RPC
+2179/tcp  open  vmrdp?
+3333/tcp  open  dec-notes?
+50300/tcp open  unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port3333-TCP:V=6.40%I=7%D=10/25%Time=6538D163%P=x86_64-redhat-linux-gnu
+SF:%r(GenericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:
+SF:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20
+SF:Bad\x20Request")%r(LPDString,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\n
+SF:Content-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r
+SF:\n\r\n400\x20Bad\x20Request")%r(GetRequest,434,"HTTP/1\.0\x20200\x20OK\
+SF:r\nContent-Type:\x20text/html\r\nDate:\x20Wed,\x2025\x20Oct\x202023\x20
+SF:08:27:12\x20GMT\r\nContent-Length:\x20974\r\n\r\n<!DOCTYPE\x20html>\n<h
+SF:tml\x20lang=\"en\">\n\x20\x20<head>\n\x20\x20\x20\x20<base\x20href=\"/\
+SF:">\n\x20\x20\x20\x20<meta\x20charset=\"utf-8\">\n\x20\x20\x20\x20<meta\
+SF:x20http-equiv=\"X-UA-Compatible\"\x20content=\"IE=edge\">\n\x20\x20\x20
+SF:\x20<meta\x20name=\"viewport\"\x20content=\"width=device-width,initial-
+SF:scale=1\.0\">\n\x20\x20\x20\x20<link\x20rel=\"icon\"\x20href=\"favicon\
+SF:.png\">\n\x20\x20\x20\x20<title>Ansible\x20Semaphore</title>\n\x20\x20<
+SF:script\x20defer\x20type=\"module\"\x20src=\"js/chunk-vendors\.2e6558e8\
+SF:.js\"></script><script\x20defer\x20type=\"module\"\x20src=\"js/app\.28a
+SF:2860d\.js\"></script><link\x20href=\"css/chunk-vendors\.e1031f37\.css\"
+SF:\x20rel=\"stylesheet\"><link\x20href=\"css/app\.13f6f466\.css\"\x20rel=
+SF:\"stylesheet\"><script\x20defer\x20src=\"js/chunk-vendors-legacy\.609a7
+SF:4d4\.js\"\x20nomodule></script><script\x20defer\x20src=\"js/app-legacy\
+SF:.e9595c55\.js\"\x20nomodule></script></head>\n\x20\x20<body>\n\x20\x20\
+SF:x20\x20<noscript>\n\x20\x20\x20\x20\x20\x20<strong>\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20We're\x20sorry\x20but\x20web\x20doesn't\x20work\x
+SF:20properly\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20with")%r(HTTPOption
+SF:s,434,"HTTP/1\.0\x20200\x20OK\r\nContent-Type:\x20text/html\r\nDate:\x2
+SF:0Wed,\x2025\x20Oct\x202023\x2008:27:12\x20GMT\r\nContent-Length:\x20974
+SF:\r\n\r\n<!DOCTYPE\x20html>\n<html\x20lang=\"en\">\n\x20\x20<head>\n\x20
+SF:\x20\x20\x20<base\x20href=\"/\">\n\x20\x20\x20\x20<meta\x20charset=\"ut
+SF:f-8\">\n\x20\x20\x20\x20<meta\x20http-equiv=\"X-UA-Compatible\"\x20cont
+SF:ent=\"IE=edge\">\n\x20\x20\x20\x20<meta\x20name=\"viewport\"\x20content
+SF:=\"width=device-width,initial-scale=1\.0\">\n\x20\x20\x20\x20<link\x20r
+SF:el=\"icon\"\x20href=\"favicon\.png\">\n\x20\x20\x20\x20<title>Ansible\x
+SF:20Semaphore</title>\n\x20\x20<script\x20defer\x20type=\"module\"\x20src
+SF:=\"js/chunk-vendors\.2e6558e8\.js\"></script><script\x20defer\x20type=\
+SF:"module\"\x20src=\"js/app\.28a2860d\.js\"></script><link\x20href=\"css/
+SF:chunk-vendors\.e1031f37\.css\"\x20rel=\"stylesheet\"><link\x20href=\"cs
+SF:s/app\.13f6f466\.css\"\x20rel=\"stylesheet\"><script\x20defer\x20src=\"
+SF:js/chunk-vendors-legacy\.609a74d4\.js\"\x20nomodule></script><script\x2
+SF:0defer\x20src=\"js/app-legacy\.e9595c55\.js\"\x20nomodule></script></he
+SF:ad>\n\x20\x20<body>\n\x20\x20\x20\x20<noscript>\n\x20\x20\x20\x20\x20\x
+SF:20<strong>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20We're\x20sorry\x20b
+SF:ut\x20web\x20doesn't\x20work\x20properly\n\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20with");
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running (JUST GUESSING): Microsoft Windows 2008|Phone|7|Vista (90%), FreeBSD 6.X (87%)
+OS CPE: cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:freebsd:freebsd:6.2
+Aggressive OS guesses: Microsoft Windows Server 2008 SP1 (90%), Microsoft Windows Phone 7.5 (88%), Microsoft Windows 7 Professional (87%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (87%), FreeBSD 6.2-RELEASE (87%), Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008 (86%), Microsoft Windows Server 2008 R2 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 0.438 days (since Wed Oct 25 00:00:57 2023)
+Network Distance: 4 hops
+TCP Sequence Prediction: Difficulty=253 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| ms-sql-info: 
+|   [149.156.112.172:1433]
+|     Version: Microsoft SQL Server 
+|       Version number: 14.00.3451.00
+|       Product: Microsoft SQL Server 
+|_    TCP port: 1433
+| nbstat: 
+|   NetBIOS name: DESKTOP-AGH, NetBIOS user: <unknown>, NetBIOS MAC: d0:50:99:81:35:af (ASRock Incorporation)
+|   Names
+|     WORKGROUP<00>        Flags: <group><active>
+|     DESKTOP-AGH<00>      Flags: <unique><active>
+|_    DESKTOP-AGH<20>      Flags: <unique><active>
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+-   Hops 1-3 are the same as for 149.156.112.170
+4   1.51 ms klimek.metal.agh.edu.pl (149.156.112.172)
+
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.250)
+Host is up (0.0022s latency).
+All 1000 scanned ports on b6rtr.agh.edu.pl (149.156.112.250) are closed
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT     ADDRESS
+1   ... 2
+3   1.78 ms b6rtr.agh.edu.pl (149.156.112.250)
+
+NSE: Script Post-scanning.
+Initiating NSE at 10:31
+Completed NSE at 10:31, 0.00s elapsed
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (25 hosts up) scanned in 342.73 seconds
+           Raw packets sent: 38380 (1.792MB) | Rcvd: 18618 (798.534KB)

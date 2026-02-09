@@ -1,0 +1,559 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2023-10-25 10:33 CEST
+Initiating Ping Scan at 10:33
+Scanning 256 hosts [4 ports/host]
+Completed Ping Scan at 10:33, 3.57s elapsed (256 total hosts)
+Initiating Parallel DNS resolution of 256 hosts. at 10:33
+Completed Parallel DNS resolution of 256 hosts. at 10:33, 0.00s elapsed
+Nmap scan report for 149.156.112.0 [host down]
+Nmap scan report for 149.156.112.1 [host down]
+Nmap scan report for 149.156.112.2 [host down]
+Nmap scan report for 149.156.112.3 [host down]
+Nmap scan report for 149.156.112.4 [host down]
+Nmap scan report for 149.156.112.5 [host down]
+Nmap scan report for 149.156.112.7 [host down]
+Nmap scan report for 149.156.112.8 [host down]
+Nmap scan report for 149.156.112.9 [host down]
+Nmap scan report for 149.156.112.10 [host down]
+Nmap scan report for 149.156.112.11 [host down]
+Nmap scan report for 149.156.112.12 [host down]
+Nmap scan report for 149.156.112.14 [host down]
+Nmap scan report for 149.156.112.16 [host down]
+Nmap scan report for 149.156.112.17 [host down]
+Nmap scan report for 149.156.112.19 [host down]
+Nmap scan report for 149.156.112.20 [host down]
+Nmap scan report for 149.156.112.21 [host down]
+Nmap scan report for 149.156.112.22 [host down]
+Nmap scan report for 149.156.112.23 [host down]
+Nmap scan report for 149.156.112.24 [host down]
+Nmap scan report for 149.156.112.25 [host down]
+Nmap scan report for 149.156.112.26 [host down]
+Nmap scan report for 149.156.112.28 [host down]
+Nmap scan report for 149.156.112.31 [host down]
+Nmap scan report for 149.156.112.32 [host down]
+Nmap scan report for 149.156.112.33 [host down]
+Nmap scan report for 149.156.112.34 [host down]
+Nmap scan report for 149.156.112.35 [host down]
+Nmap scan report for 149.156.112.36 [host down]
+Nmap scan report for 149.156.112.37 [host down]
+Nmap scan report for 149.156.112.38 [host down]
+Nmap scan report for 149.156.112.39 [host down]
+Nmap scan report for 149.156.112.40 [host down]
+Nmap scan report for 149.156.112.41 [host down]
+Nmap scan report for 149.156.112.43 [host down]
+Nmap scan report for 149.156.112.44 [host down]
+Nmap scan report for 149.156.112.45 [host down]
+Nmap scan report for 149.156.112.47 [host down]
+Nmap scan report for 149.156.112.48 [host down]
+Nmap scan report for 149.156.112.49 [host down]
+Nmap scan report for 149.156.112.50 [host down]
+Nmap scan report for 149.156.112.53 [host down]
+Nmap scan report for 149.156.112.54 [host down]
+Nmap scan report for 149.156.112.55 [host down]
+Nmap scan report for 149.156.112.56 [host down]
+Nmap scan report for 149.156.112.57 [host down]
+Nmap scan report for 149.156.112.58 [host down]
+Nmap scan report for 149.156.112.59 [host down]
+Nmap scan report for 149.156.112.60 [host down]
+Nmap scan report for 149.156.112.61 [host down]
+Nmap scan report for 149.156.112.62 [host down]
+Nmap scan report for 149.156.112.63 [host down]
+Nmap scan report for 149.156.112.64 [host down]
+Nmap scan report for 149.156.112.65 [host down]
+Nmap scan report for 149.156.112.66 [host down]
+Nmap scan report for 149.156.112.67 [host down]
+Nmap scan report for 149.156.112.68 [host down]
+Nmap scan report for 149.156.112.69 [host down]
+Nmap scan report for 149.156.112.70 [host down]
+Nmap scan report for 149.156.112.71 [host down]
+Nmap scan report for 149.156.112.72 [host down]
+Nmap scan report for 149.156.112.73 [host down]
+Nmap scan report for 149.156.112.74 [host down]
+Nmap scan report for 149.156.112.75 [host down]
+Nmap scan report for 149.156.112.76 [host down]
+Nmap scan report for 149.156.112.77 [host down]
+Nmap scan report for 149.156.112.78 [host down]
+Nmap scan report for 149.156.112.79 [host down]
+Nmap scan report for 149.156.112.80 [host down]
+Nmap scan report for 149.156.112.81 [host down]
+Nmap scan report for 149.156.112.82 [host down]
+Nmap scan report for 149.156.112.83 [host down]
+Nmap scan report for 149.156.112.84 [host down]
+Nmap scan report for 149.156.112.85 [host down]
+Nmap scan report for 149.156.112.86 [host down]
+Nmap scan report for 149.156.112.87 [host down]
+Nmap scan report for 149.156.112.88 [host down]
+Nmap scan report for 149.156.112.89 [host down]
+Nmap scan report for 149.156.112.90 [host down]
+Nmap scan report for 149.156.112.91 [host down]
+Nmap scan report for 149.156.112.92 [host down]
+Nmap scan report for 149.156.112.94 [host down]
+Nmap scan report for 149.156.112.95 [host down]
+Nmap scan report for 149.156.112.96 [host down]
+Nmap scan report for 149.156.112.97 [host down]
+Nmap scan report for 149.156.112.98 [host down]
+Nmap scan report for 149.156.112.101 [host down]
+Nmap scan report for 149.156.112.102 [host down]
+Nmap scan report for 149.156.112.103 [host down]
+Nmap scan report for 149.156.112.104 [host down]
+Nmap scan report for 149.156.112.105 [host down]
+Nmap scan report for 149.156.112.106 [host down]
+Nmap scan report for 149.156.112.107 [host down]
+Nmap scan report for 149.156.112.108 [host down]
+Nmap scan report for 149.156.112.109 [host down]
+Nmap scan report for 149.156.112.110 [host down]
+Nmap scan report for 149.156.112.112 [host down]
+Nmap scan report for 149.156.112.113 [host down]
+Nmap scan report for 149.156.112.114 [host down]
+Nmap scan report for 149.156.112.115 [host down]
+Nmap scan report for 149.156.112.116 [host down]
+Nmap scan report for 149.156.112.117 [host down]
+Nmap scan report for 149.156.112.118 [host down]
+Nmap scan report for 149.156.112.119 [host down]
+Nmap scan report for 149.156.112.120 [host down]
+Nmap scan report for 149.156.112.121 [host down]
+Nmap scan report for 149.156.112.123 [host down]
+Nmap scan report for 149.156.112.124 [host down]
+Nmap scan report for 149.156.112.127 [host down]
+Nmap scan report for 149.156.112.128 [host down]
+Nmap scan report for 149.156.112.130 [host down]
+Nmap scan report for 149.156.112.131 [host down]
+Nmap scan report for 149.156.112.132 [host down]
+Nmap scan report for 149.156.112.133 [host down]
+Nmap scan report for 149.156.112.134 [host down]
+Nmap scan report for 149.156.112.135 [host down]
+Nmap scan report for 149.156.112.136 [host down]
+Nmap scan report for 149.156.112.137 [host down]
+Nmap scan report for 149.156.112.138 [host down]
+Nmap scan report for 149.156.112.139 [host down]
+Nmap scan report for 149.156.112.140 [host down]
+Nmap scan report for 149.156.112.141 [host down]
+Nmap scan report for 149.156.112.142 [host down]
+Nmap scan report for 149.156.112.144 [host down]
+Nmap scan report for 149.156.112.145 [host down]
+Nmap scan report for 149.156.112.146 [host down]
+Nmap scan report for 149.156.112.147 [host down]
+Nmap scan report for 149.156.112.148 [host down]
+Nmap scan report for 149.156.112.149 [host down]
+Nmap scan report for 149.156.112.150 [host down]
+Nmap scan report for 149.156.112.151 [host down]
+Nmap scan report for 149.156.112.152 [host down]
+Nmap scan report for 149.156.112.153 [host down]
+Nmap scan report for 149.156.112.154 [host down]
+Nmap scan report for 149.156.112.155 [host down]
+Nmap scan report for 149.156.112.156 [host down]
+Nmap scan report for 149.156.112.157 [host down]
+Nmap scan report for 149.156.112.158 [host down]
+Nmap scan report for 149.156.112.159 [host down]
+Nmap scan report for 149.156.112.161 [host down]
+Nmap scan report for 149.156.112.163 [host down]
+Nmap scan report for 149.156.112.164 [host down]
+Nmap scan report for 149.156.112.165 [host down]
+Nmap scan report for 149.156.112.166 [host down]
+Nmap scan report for 149.156.112.167 [host down]
+Nmap scan report for 149.156.112.168 [host down]
+Nmap scan report for 149.156.112.169 [host down]
+Nmap scan report for 149.156.112.171 [host down]
+Nmap scan report for 149.156.112.173 [host down]
+Nmap scan report for 149.156.112.174 [host down]
+Nmap scan report for 149.156.112.175 [host down]
+Nmap scan report for 149.156.112.176 [host down]
+Nmap scan report for 149.156.112.177 [host down]
+Nmap scan report for 149.156.112.178 [host down]
+Nmap scan report for 149.156.112.179 [host down]
+Nmap scan report for 149.156.112.180 [host down]
+Nmap scan report for 149.156.112.181 [host down]
+Nmap scan report for 149.156.112.182 [host down]
+Nmap scan report for 149.156.112.183 [host down]
+Nmap scan report for 149.156.112.184 [host down]
+Nmap scan report for 149.156.112.185 [host down]
+Nmap scan report for 149.156.112.186 [host down]
+Nmap scan report for 149.156.112.187 [host down]
+Nmap scan report for 149.156.112.188 [host down]
+Nmap scan report for 149.156.112.189 [host down]
+Nmap scan report for 149.156.112.190 [host down]
+Nmap scan report for 149.156.112.191 [host down]
+Nmap scan report for 149.156.112.192 [host down]
+Nmap scan report for 149.156.112.193 [host down]
+Nmap scan report for 149.156.112.194 [host down]
+Nmap scan report for 149.156.112.195 [host down]
+Nmap scan report for 149.156.112.196 [host down]
+Nmap scan report for 149.156.112.197 [host down]
+Nmap scan report for 149.156.112.198 [host down]
+Nmap scan report for 149.156.112.199 [host down]
+Nmap scan report for 149.156.112.200 [host down]
+Nmap scan report for 149.156.112.201 [host down]
+Nmap scan report for 149.156.112.202 [host down]
+Nmap scan report for 149.156.112.203 [host down]
+Nmap scan report for 149.156.112.204 [host down]
+Nmap scan report for 149.156.112.205 [host down]
+Nmap scan report for 149.156.112.206 [host down]
+Nmap scan report for 149.156.112.207 [host down]
+Nmap scan report for 149.156.112.208 [host down]
+Nmap scan report for 149.156.112.209 [host down]
+Nmap scan report for 149.156.112.210 [host down]
+Nmap scan report for 149.156.112.211 [host down]
+Nmap scan report for 149.156.112.212 [host down]
+Nmap scan report for 149.156.112.213 [host down]
+Nmap scan report for 149.156.112.214 [host down]
+Nmap scan report for 149.156.112.215 [host down]
+Nmap scan report for 149.156.112.216 [host down]
+Nmap scan report for 149.156.112.217 [host down]
+Nmap scan report for 149.156.112.218 [host down]
+Nmap scan report for 149.156.112.219 [host down]
+Nmap scan report for 149.156.112.220 [host down]
+Nmap scan report for 149.156.112.221 [host down]
+Nmap scan report for 149.156.112.222 [host down]
+Nmap scan report for 149.156.112.223 [host down]
+Nmap scan report for 149.156.112.224 [host down]
+Nmap scan report for 149.156.112.225 [host down]
+Nmap scan report for 149.156.112.226 [host down]
+Nmap scan report for 149.156.112.227 [host down]
+Nmap scan report for 149.156.112.228 [host down]
+Nmap scan report for 149.156.112.229 [host down]
+Nmap scan report for 149.156.112.230 [host down]
+Nmap scan report for 149.156.112.231 [host down]
+Nmap scan report for 149.156.112.232 [host down]
+Nmap scan report for 149.156.112.233 [host down]
+Nmap scan report for 149.156.112.234 [host down]
+Nmap scan report for 149.156.112.235 [host down]
+Nmap scan report for 149.156.112.236 [host down]
+Nmap scan report for 149.156.112.237 [host down]
+Nmap scan report for 149.156.112.238 [host down]
+Nmap scan report for 149.156.112.239 [host down]
+Nmap scan report for 149.156.112.240 [host down]
+Nmap scan report for 149.156.112.241 [host down]
+Nmap scan report for 149.156.112.242 [host down]
+Nmap scan report for 149.156.112.243 [host down]
+Nmap scan report for 149.156.112.244 [host down]
+Nmap scan report for 149.156.112.245 [host down]
+Nmap scan report for 149.156.112.246 [host down]
+Nmap scan report for 149.156.112.247 [host down]
+Nmap scan report for 149.156.112.248 [host down]
+Nmap scan report for 149.156.112.249 [host down]
+Nmap scan report for 149.156.112.251 [host down]
+Nmap scan report for 149.156.112.252 [host down]
+Nmap scan report for 149.156.112.253 [host down]
+Nmap scan report for 149.156.112.254 [host down]
+Nmap scan report for 149.156.112.255 [host down]
+Initiating Connect Scan at 10:33
+Scanning 25 hosts [1000 ports/host]
+Discovered open port 3389/tcp on 149.156.112.170
+Discovered open port 3389/tcp on 149.156.112.93
+Discovered open port 3389/tcp on 149.156.112.6
+Discovered open port 139/tcp on 149.156.112.13
+Discovered open port 139/tcp on 149.156.112.42
+Discovered open port 3306/tcp on 149.156.112.18
+Discovered open port 139/tcp on 149.156.112.6
+Discovered open port 139/tcp on 149.156.112.170
+Discovered open port 53/tcp on 149.156.112.6
+Discovered open port 139/tcp on 149.156.112.30
+Discovered open port 139/tcp on 149.156.112.111
+Discovered open port 53/tcp on 149.156.112.126
+Discovered open port 443/tcp on 149.156.112.13
+Discovered open port 443/tcp on 149.156.112.15
+Discovered open port 111/tcp on 149.156.112.13
+Discovered open port 111/tcp on 149.156.112.126
+Discovered open port 445/tcp on 149.156.112.6
+Discovered open port 445/tcp on 149.156.112.13
+Discovered open port 445/tcp on 149.156.112.18
+Discovered open port 445/tcp on 149.156.112.42
+Discovered open port 80/tcp on 149.156.112.162
+Discovered open port 445/tcp on 149.156.112.111
+Discovered open port 135/tcp on 149.156.112.6
+Discovered open port 80/tcp on 149.156.112.18
+Discovered open port 80/tcp on 149.156.112.13
+Discovered open port 445/tcp on 149.156.112.170
+Discovered open port 22/tcp on 149.156.112.162
+Discovered open port 135/tcp on 149.156.112.42
+Discovered open port 22/tcp on 149.156.112.111
+Discovered open port 135/tcp on 149.156.112.170
+Discovered open port 22/tcp on 149.156.112.15
+Discovered open port 80/tcp on 149.156.112.15
+Discovered open port 3268/tcp on 149.156.112.6
+Discovered open port 3128/tcp on 149.156.112.126
+Discovered open port 2525/tcp on 149.156.112.126
+Discovered open port 49154/tcp on 149.156.112.6
+Discovered open port 88/tcp on 149.156.112.6
+Discovered open port 49152/tcp on 149.156.112.6
+Discovered open port 49155/tcp on 149.156.112.6
+Discovered open port 49153/tcp on 149.156.112.6
+Discovered open port 636/tcp on 149.156.112.6
+Discovered open port 2179/tcp on 149.156.112.6
+Discovered open port 2049/tcp on 149.156.112.13
+Discovered open port 50000/tcp on 149.156.112.13
+Discovered open port 2179/tcp on 149.156.112.170
+Discovered open port 1433/tcp on 149.156.112.126
+Discovered open port 873/tcp on 149.156.112.13
+Discovered open port 464/tcp on 149.156.112.6
+Discovered open port 3269/tcp on 149.156.112.6
+Discovered open port 389/tcp on 149.156.112.6
+Discovered open port 6547/tcp on 149.156.112.6
+Discovered open port 49157/tcp on 149.156.112.6
+Discovered open port 49158/tcp on 149.156.112.6
+Discovered open port 427/tcp on 149.156.112.13
+Discovered open port 49159/tcp on 149.156.112.6
+Discovered open port 593/tcp on 149.156.112.6
+Discovered open port 548/tcp on 149.156.112.13
+Discovered open port 2222/tcp on 149.156.112.13
+Discovered open port 3052/tcp on 149.156.112.6
+Discovered open port 139/tcp on 149.156.112.172
+Discovered open port 80/tcp on 149.156.112.172
+Discovered open port 445/tcp on 149.156.112.172
+Discovered open port 135/tcp on 149.156.112.172
+Discovered open port 445/tcp on 149.156.112.30
+Completed Connect Scan against 149.156.112.111 in 1.51s (24 hosts left)
+Increasing send delay for 149.156.112.125 from 0 to 5 due to 11 out of 30 dropped probes since last increase.
+Increasing send delay for 149.156.112.129 from 0 to 5 due to 24 out of 79 dropped probes since last increase.
+Completed Connect Scan against 149.156.112.162 in 2.28s (23 hosts left)
+Increasing send delay for 149.156.112.250 from 0 to 5 due to 11 out of 33 dropped probes since last increase.
+Increasing send delay for 149.156.112.46 from 0 to 5 due to 53 out of 175 dropped probes since last increase.
+Completed Connect Scan against 149.156.112.6 in 2.55s (22 hosts left)
+Discovered open port 80/tcp on 149.156.112.160
+Discovered open port 445/tcp on 149.156.112.27
+Discovered open port 22/tcp on 149.156.112.27
+Discovered open port 135/tcp on 149.156.112.30
+Completed Connect Scan against 149.156.112.29 in 8.34s (21 hosts left)
+Completed Connect Scan against 149.156.112.42 in 10.86s (20 hosts left)
+Completed Connect Scan against 149.156.112.126 in 10.93s (19 hosts left)
+Discovered open port 8899/tcp on 149.156.112.129
+Completed Connect Scan against 149.156.112.13 in 12.28s (18 hosts left)
+Completed Connect Scan against 149.156.112.122 in 12.95s (17 hosts left)
+Completed Connect Scan against 149.156.112.170 in 13.54s (16 hosts left)
+Discovered open port 10012/tcp on 149.156.112.99
+Discovered open port 1801/tcp on 149.156.112.172
+Discovered open port 10010/tcp on 149.156.112.99
+Completed Connect Scan against 149.156.112.15 in 17.53s (15 hosts left)
+Discovered open port 3333/tcp on 149.156.112.172
+Discovered open port 2179/tcp on 149.156.112.172
+Discovered open port 1433/tcp on 149.156.112.172
+Discovered open port 2103/tcp on 149.156.112.172
+Discovered open port 2107/tcp on 149.156.112.172
+Discovered open port 50300/tcp on 149.156.112.172
+Completed Connect Scan against 149.156.112.18 in 59.98s (14 hosts left)
+Completed Connect Scan against 149.156.112.143 in 60.18s (13 hosts left)
+Completed Connect Scan against 149.156.112.51 in 60.80s (12 hosts left)
+Discovered open port 2105/tcp on 149.156.112.172
+Completed Connect Scan against 149.156.112.160 in 67.62s (11 hosts left)
+Completed Connect Scan against 149.156.112.99 in 67.90s (10 hosts left)
+Completed Connect Scan against 149.156.112.93 in 67.90s (9 hosts left)
+Completed Connect Scan against 149.156.112.27 in 68.00s (8 hosts left)
+Completed Connect Scan against 149.156.112.30 in 68.35s (7 hosts left)
+Completed Connect Scan against 149.156.112.172 in 68.35s (6 hosts left)
+Completed Connect Scan against 149.156.112.100 in 68.60s (5 hosts left)
+Completed Connect Scan against 149.156.112.52 in 68.69s (4 hosts left)
+Completed Connect Scan against 149.156.112.46 in 68.69s (3 hosts left)
+Discovered open port 515/tcp on 149.156.112.129
+Discovered open port 631/tcp on 149.156.112.129
+Completed Connect Scan against 149.156.112.125 in 70.10s (2 hosts left)
+Completed Connect Scan against 149.156.112.250 in 70.73s (1 host left)
+Completed Connect Scan at 10:34, 72.47s elapsed (25000 total ports)
+Nmap scan report for krywan.metal.agh.edu.pl (149.156.112.6)
+Host is up (0.0058s latency).
+Not shown: 978 closed ports
+PORT      STATE SERVICE
+53/tcp    open  domain
+88/tcp    open  kerberos-sec
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5
+593/tcp   open  http-rpc-epmap
+636/tcp   open  ldapssl
+2179/tcp  open  vmrdp
+3052/tcp  open  powerchute
+3268/tcp  open  globalcatLDAP
+3269/tcp  open  globalcatLDAPssl
+3389/tcp  open  ms-wbt-server
+6547/tcp  open  powerchuteplus
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49159/tcp open  unknown
+
+Nmap scan report for umbreon.metal.agh.edu.pl (149.156.112.13)
+Host is up (0.0011s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+427/tcp   open  svrloc
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+548/tcp   open  afp
+873/tcp   open  rsync
+2049/tcp  open  nfs
+2222/tcp  open  EtherNet/IP-1
+50000/tcp open  ibm-db2
+
+Nmap scan report for metal.metal.agh.edu.pl (149.156.112.15)
+Host is up (0.0014s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ipguru.metal.agh.edu.pl (149.156.112.18)
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap scan report for 149.156.112.27
+Host is up (0.0036s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+445/tcp open  microsoft-ds
+
+Nmap scan report for 149.156.112.29
+Host is up (0.0011s latency).
+All 1000 scanned ports on 149.156.112.29 are closed
+
+Nmap scan report for stalow1.metal.agh.edu.pl (149.156.112.30)
+Host is up (0.0043s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for willow.metal.agh.edu.pl (149.156.112.42)
+Host is up (0.0010s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for enigma.metal.agh.edu.pl (149.156.112.46)
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT    STATE    SERVICE
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+445/tcp filtered microsoft-ds
+
+Nmap scan report for ziamol.metal.agh.edu.pl (149.156.112.51)
+Host is up (0.0097s latency).
+All 1000 scanned ports on ziamol.metal.agh.edu.pl (149.156.112.51) are filtered
+
+Nmap scan report for koala.metal.agh.edu.pl (149.156.112.52)
+Host is up (0.15s latency).
+All 1000 scanned ports on koala.metal.agh.edu.pl (149.156.112.52) are filtered
+
+Nmap scan report for netzsch.metal.agh.edu.pl (149.156.112.93)
+Host is up (0.0012s latency).
+Not shown: 996 closed ports
+PORT     STATE    SERVICE
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+3389/tcp open     ms-wbt-server
+
+Nmap scan report for pwojnaro.metal.agh.edu.pl (149.156.112.99)
+Host is up (0.0026s latency).
+Not shown: 998 filtered ports
+PORT      STATE SERVICE
+10010/tcp open  rxapi
+10012/tcp open  unknown
+
+Nmap scan report for monika.metal.agh.edu.pl (149.156.112.100)
+Host is up (0.0016s latency).
+All 1000 scanned ports on monika.metal.agh.edu.pl (149.156.112.100) are filtered
+
+Nmap scan report for jameson.metal.agh.edu.pl (149.156.112.111)
+Host is up (0.0026s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for lacoste.metal.agh.edu.pl (149.156.112.122)
+Host is up (0.0011s latency).
+All 1000 scanned ports on lacoste.metal.agh.edu.pl (149.156.112.122) are closed
+
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.125)
+Host is up (0.0024s latency).
+All 1000 scanned ports on b6rtr.agh.edu.pl (149.156.112.125) are closed
+
+Nmap scan report for 149.156.112.126
+Host is up (0.0011s latency).
+Not shown: 993 closed ports
+PORT     STATE    SERVICE
+53/tcp   open     domain
+111/tcp  open     rpcbind
+1433/tcp open     ms-sql-s
+2222/tcp filtered EtherNet/IP-1
+2525/tcp open     ms-v-worlds
+3128/tcp open     squid-http
+5555/tcp filtered freeciv
+
+Nmap scan report for 149.156.112.129
+Host is up (0.0015s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+515/tcp  open  printer
+631/tcp  open  ipp
+8899/tcp open  ospf-lite
+
+Nmap scan report for metody.metal.agh.edu.pl (149.156.112.143)
+Host is up (0.0011s latency).
+All 1000 scanned ports on metody.metal.agh.edu.pl (149.156.112.143) are filtered
+
+Nmap scan report for 149.156.112.160
+Host is up (0.016s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for heavy.metal.agh.edu.pl (149.156.112.162)
+Host is up (0.0076s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for chivas.metal.agh.edu.pl (149.156.112.170)
+Host is up (0.0012s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2179/tcp open  vmrdp
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for klimek.metal.agh.edu.pl (149.156.112.172)
+Host is up (0.0017s latency).
+Not shown: 988 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1433/tcp  open  ms-sql-s
+1801/tcp  open  msmq
+2103/tcp  open  zephyr-clt
+2105/tcp  open  eklogin
+2107/tcp  open  msmq-mgmt
+2179/tcp  open  vmrdp
+3333/tcp  open  dec-notes
+50300/tcp open  unknown
+
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.250)
+Host is up (0.0025s latency).
+All 1000 scanned ports on b6rtr.agh.edu.pl (149.156.112.250) are closed
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 256 IP addresses (25 hosts up) scanned in 76.14 seconds
+           Raw packets sent: 1879 (71.136KB) | Rcvd: 35 (1.100KB)
